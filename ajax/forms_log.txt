@@ -1,0 +1,62 @@
+10/09/12 20:42:13 Array
+(
+    [doEditProfile] => true
+    [userdata] => Array
+        (
+            [email] => andrew.gai@gmail.com
+            [first_name] => Andrew
+            [last_name] => Gai
+            [company] => MasterCraft
+            [address] => 
+            [address2] => 
+            [city] => 
+            [state] => CA
+            [zip] => 
+            [phone] => 
+        )
+
+    [fc] => fcVal=6639780159732915146
+    [PHPSESSID] => f6664fcd6b3191b05185b2020bd79097
+    [checkEmail] => 
+    [doRegister] => 
+)
+
+10/09/12 20:56:20 Array
+(
+    [doEditPassword] => true
+    [oldpassword] => 
+    [newpassword] => 
+    [newpasswordconfirm] => 
+    [fc] => fcVal=6639780159732915146
+    [PHPSESSID] => f6664fcd6b3191b05185b2020bd79097
+    [checkEmail] => 
+    [doRegister] => 
+    [doEditProfile] => 
+)
+
+10/09/12 21:00:17 Array
+(
+    [doEditPassword] => true
+    [oldpassword] => 
+    [newpassword] => 
+    [newpasswordconfirm] => 
+    [fc] => fcVal=6639780159732915146
+    [PHPSESSID] => f6664fcd6b3191b05185b2020bd79097
+    [checkEmail] => 
+    [doRegister] => 
+    [doEditProfile] => 
+)
+
+10/09/12 22:26:05 Array
+(
+    [doEditPassword] => true
+    [oldpassword] => 
+    [newpassword] => 
+    [newpasswordconfirm] => 
+    [fc] => fcVal=6639780159732915146
+    [PHPSESSID] => f6664fcd6b3191b05185b2020bd79097
+    [checkEmail] => 
+    [doRegister] => 
+    [doEditProfile] => 
+)
+
